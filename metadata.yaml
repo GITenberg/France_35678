@@ -1,0 +1,33 @@
+_repo: France_35678
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35678-h/images/covera.jpg
+creator:
+  author:
+    agent_name: Home, Gordon
+    alias: Home, Gordon Cochrane
+    birthdate: 1878
+    deathdate: 1969
+    gutenberg_agent_id: '2778'
+    url: http://www.gutenberg.org/2009/agents/2778
+    wikipedia: http://en.wikipedia.org/wiki/Gordon_Home
+description: ''
+gutenberg_issued: '2011-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35678'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Description and travel'
+- !lcc 'DC'
+tableOfContents: 'Introductory -- The genesis and characteristics of the French --
+  Family life: marriage and the birth-rate -- How the French govern themselves --
+  On education and religion -- Some aspects of Paris and of town life in general --
+  Of rural life in France -- The rivers of France -- Of the watering-places -- Architecture:
+  Roman, Romanesque, and Gothic, in France -- The national defences.'
+title: France
+url: http://www.gutenberg.org/ebooks/35678
